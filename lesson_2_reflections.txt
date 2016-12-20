@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git inicializa el repositorio creando los archivos necesarios.
+	
+How is the staging area different from the working directory and the repository? What value do you 
+think it offers?
+	Staging area es un lugar especial que permite segmentar los commit, es diferente del Working Directory
+	y el Repository.
